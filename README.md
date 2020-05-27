@@ -1,4 +1,4 @@
-# Download for windows 10
+# Download EXE(Win10)
 http://link.io.xsph.ru/wbom/main.exe
 # WhatsappBomb
 python3
