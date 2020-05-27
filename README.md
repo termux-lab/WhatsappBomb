@@ -2,12 +2,12 @@
 python3
 pyautogui
 # Start
-Text=> You messages
-Count=> Count messages
-Start=> Time for start
-Interval=> Interval for messages
+Text=> You messages <br>
+Count=> Count messages <br>
+Start=> Time for start<br>
+Interval=> Interval for messages<br>
 # Example
-Text=> You messages
-Count=> 2000
-Start=> 10
-Interval=> 0.5
+Text=> You messages<br>
+Count=> 2000<br>
+Start=> 10<br>
+Interval=> 0.5<br>
